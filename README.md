@@ -51,6 +51,7 @@
 - [产品外观与结构方向](docs/design-direction.md)
 - [第一阶段硬件选型](docs/hardware-selection.md)
 - [拼多多 ES3C35P 商品核对](docs/hardware-pinduoduo-review.md)
+- [159 元小智机器人低成本成品评估](docs/low-cost-device-review.md)
 - [API 与软件架构](docs/software-architecture.md)
 
 ## 当前状态
